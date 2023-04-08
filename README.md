@@ -1,4 +1,4 @@
-<h1 align="center">fetchbacon</h1>
+<h1 align="center">fetch.bqn</h1>
 <p align="center">
 minimal and personal fetch
 </p>
